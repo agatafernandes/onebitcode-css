@@ -1,0 +1,15 @@
+h1{
+  font-size: 30px;
+  color: white;
+  border: 8px solid grey;
+}
+
+li{
+  color: green;
+}
+
+body{
+  background-image: url(img/spacex.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
